@@ -1,0 +1,456 @@
+{
+  "Terran": [
+    {
+      "terranid": "SCV",
+      "Minerals": "50",
+      "Gas": "0",
+      "Time": "12",
+      "PerMin": "5",
+      "MCPM": "250",
+      "GCPM": "0"
+    },
+    {
+      "terranid": "Marine",
+      "Minerals": "50",
+      "Gas": "0",
+      "Time": "18",
+      "PerMin": "3",
+      "MCPM": "150",
+      "GCPM": "0"
+    },
+    {
+      "terranid": "Reaper",
+      "Minerals": "50",
+      "Gas": "50",
+      "Time": "32",
+      "PerMin": "2",
+      "MCPM": "100",
+      "GCPM": "100"
+    },
+    {
+      "terranid": "Marauder",
+      "Minerals": "100",
+      "Gas": "25",
+      "Time": "21",
+      "PerMin": "3",
+      "MCPM": "300",
+      "GCPM": "75"
+    },
+    {
+      "terranid": "Ghost",
+      "Minerals": "200",
+      "Gas": "100",
+      "Time": "29",
+      "PerMin": "2",
+      "MCPM": "400",
+      "GCPM": "200"
+    },
+    {
+      "terranid": "WM",
+      "Minerals": "75",
+      "Gas": "25",
+      "Time": "29",
+      "PerMin": "2",
+      "MCPM": "150",
+      "GCPM": "50"
+    },
+    {
+      "terranid": "Hellion",
+      "Minerals": "100",
+      "Gas": "0",
+      "Time": "21",
+      "PerMin": "3",
+      "MCPM": "300",
+      "GCPM": "0"
+    },
+    {
+      "terranid": "HellBat",
+      "Minerals": "100",
+      "Gas": "0",
+      "Time": "21",
+      "PerMin": "3",
+      "MCPM": "300",
+      "GCPM": "0"
+    },
+    {
+      "terranid": "Tank",
+      "Minerals": "150",
+      "Gas": "125",
+      "Time": "32",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "250"
+    },
+    {
+      "terranid": "Thor",
+      "Minerals": "300",
+      "Gas": "200",
+      "Time": "43",
+      "PerMin": "1",
+      "MCPM": "300",
+      "GCPM": "200"
+    },
+    {
+      "terranid": "Cyclone",
+      "Minerals": "150",
+      "Gas": "150",
+      "Time": "32",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "300"
+    },
+    {
+      "terranid": "Liberator",
+      "Minerals": "150",
+      "Gas": "150",
+      "Time": "43",
+      "PerMin": "1",
+      "MCPM": "150",
+      "GCPM": "150"
+    },
+    {
+      "terranid": "Banshee",
+      "Minerals": "150",
+      "Gas": "100",
+      "Time": "43",
+      "PerMin": "1",
+      "MCPM": "150",
+      "GCPM": "100"
+    },
+    {
+      "terranid": "Medivac",
+      "Minerals": "100",
+      "Gas": "100",
+      "Time": "30",
+      "PerMin": "2",
+      "MCPM": "200",
+      "GCPM": "200"
+    },
+    {
+      "terranid": "Raven",
+      "Minerals": "100",
+      "Gas": "200",
+      "Time": "43",
+      "PerMin": "1",
+      "MCPM": "100",
+      "GCPM": "200"
+    },
+    {
+      "terranid": "Viking ",
+      "Minerals": "150",
+      "Gas": "75",
+      "Time": "30",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "150"
+    },
+    {
+      "terranid": "BattleCruiser",
+      "Minerals": "400",
+      "Gas": "300",
+      "Time": "64",
+      "PerMin": "1",
+      "MCPM": "400",
+      "GCPM": "300"
+    }
+  ],
+  "Zerg": [
+    {
+      "zergid": "Drone",
+      "Minerals": "50",
+      "Gas": "0",
+      "Time": "12",
+      "PerMin": "5",
+      "MCPM": "250",
+      "GCPM": "0"
+    },
+    {
+      "zergid": "Queen",
+      "Minerals": "150",
+      "Gas": "0",
+      "Time": "36",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "0"
+    },
+    {
+      "zergid": "Zergling",
+      "Minerals": "50",
+      "Gas": "0",
+      "Time": "17",
+      "PerMin": "4",
+      "MCPM": "200",
+      "GCPM": "0"
+    },
+    {
+      "zergid": "Baneling",
+      "Minerals": "25",
+      "Gas": "25",
+      "Time": "14",
+      "PerMin": "4",
+      "MCPM": "100",
+      "GCPM": "100"
+    },
+    {
+      "zergid": "Roach",
+      "Minerals": "75",
+      "Gas": "25",
+      "Time": "19",
+      "PerMin": "3",
+      "MCPM": "225",
+      "GCPM": "75"
+    },
+    {
+      "zergid": "Ravager",
+      "Minerals": "25",
+      "Gas": "75",
+      "Time": "9",
+      "PerMin": "7",
+      "MCPM": "175",
+      "GCPM": "525"
+    },
+    {
+      "zergid": "Hydralisk",
+      "Minerals": "100",
+      "Gas": "50",
+      "Time": "24",
+      "PerMin": "3",
+      "MCPM": "300",
+      "GCPM": "150"
+    },
+    {
+      "zergid": "Lurker",
+      "Minerals": "50",
+      "Gas": "100",
+      "Time": "18",
+      "PerMin": "3",
+      "MCPM": "150",
+      "GCPM": "300"
+    },
+    {
+      "zergid": "Mutalisk",
+      "Minerals": "100",
+      "Gas": "100",
+      "Time": "24",
+      "PerMin": "3",
+      "MCPM": "300",
+      "GCPM": "300"
+    },
+    {
+      "zergid": "Corruptor",
+      "Minerals": "150",
+      "Gas": "100",
+      "Time": "29",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "200"
+    },
+    {
+      "zergid": "SH",
+      "Minerals": "200",
+      "Gas": "100",
+      "Time": "29",
+      "PerMin": "2",
+      "MCPM": "400",
+      "GCPM": "200"
+    },
+    {
+      "zergid": "Infestor",
+      "Minerals": "100",
+      "Gas": "150",
+      "Time": "36",
+      "PerMin": "2",
+      "MCPM": "200",
+      "GCPM": "300"
+    },
+    {
+      "zergid": "Viper",
+      "Minerals": "100",
+      "Gas": "200",
+      "Time": "29",
+      "PerMin": "2",
+      "MCPM": "200",
+      "GCPM": "400"
+    },
+    {
+      "zergid": "BL",
+      "Minerals": "150",
+      "Gas": "150",
+      "Time": "24",
+      "PerMin": "3",
+      "MCPM": "450",
+      "GCPM": "450"
+    },
+    {
+      "zergid": "Ultralisk",
+      "Minerals": "300",
+      "Gas": "200",
+      "Time": "39",
+      "PerMin": "2",
+      "MCPM": "600",
+      "GCPM": "400"
+    }
+  ],
+  "Protoss": [
+    {
+      "protossid": "Probe",
+      "Minerals": "50",
+      "Gas": "0",
+      "Time": "12",
+      "PerMin": "5",
+      "MCPM": "250",
+      "GCPM": "0"
+    },
+    {
+      "protossid": "Zealot",
+      "Minerals": "100",
+      "Gas": "0",
+      "Time": "20",
+      "PerMin": "3",
+      "MCPM": "300",
+      "GCPM": "0"
+    },
+    {
+      "protossid": "Sentry",
+      "Minerals": "50",
+      "Gas": "100",
+      "Time": "23",
+      "PerMin": "3",
+      "MCPM": "150",
+      "GCPM": "300"
+    },
+    {
+      "protossid": "Stalker",
+      "Minerals": "125",
+      "Gas": "50",
+      "Time": "23",
+      "PerMin": "3",
+      "MCPM": "375",
+      "GCPM": "150"
+    },
+    {
+      "protossid": "Adept",
+      "Minerals": "100",
+      "Gas": "25",
+      "Time": "20",
+      "PerMin": "3",
+      "MCPM": "300",
+      "GCPM": "75"
+    },
+    {
+      "protossid": "HT",
+      "Minerals": "50",
+      "Gas": "150",
+      "Time": "32",
+      "PerMin": "2",
+      "MCPM": "100",
+      "GCPM": "300"
+    },
+    {
+      "protossid": "DT",
+      "Minerals": "125",
+      "Gas": "125",
+      "Time": "32",
+      "PerMin": "2",
+      "MCPM": "250",
+      "GCPM": "250"
+    },
+    {
+      "protossid": "Observer",
+      "Minerals": "25",
+      "Gas": "75",
+      "Time": "21",
+      "PerMin": "3",
+      "MCPM": "75",
+      "GCPM": "225"
+    },
+    {
+      "protossid": "WarpPrism",
+      "Minerals": "200",
+      "Gas": "0",
+      "Time": "36",
+      "PerMin": "2",
+      "MCPM": "400",
+      "GCPM": "0"
+    },
+    {
+      "protossid": "Immortal",
+      "Minerals": "250",
+      "Gas": "100",
+      "Time": "39",
+      "PerMin": "2",
+      "MCPM": "500",
+      "GCPM": "200"
+    },
+    {
+      "protossid": "Colossus",
+      "Minerals": "300",
+      "Gas": "200",
+      "Time": "54",
+      "PerMin": "1",
+      "MCPM": "300",
+      "GCPM": "200"
+    },
+    {
+      "protossid": "Disruptor",
+      "Minerals": "150",
+      "Gas": "150",
+      "Time": "36",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "300"
+    },
+    {
+      "protossid": "Phoenix",
+      "Minerals": "150",
+      "Gas": "100",
+      "Time": "25",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "200"
+    },
+    {
+      "protossid": "Oracle",
+      "Minerals": "150",
+      "Gas": "150",
+      "Time": "36",
+      "PerMin": "2",
+      "MCPM": "300",
+      "GCPM": "300"
+    },
+    {
+      "protossid": "VR",
+      "Minerals": "250",
+      "Gas": "150",
+      "Time": "43",
+      "PerMin": "1",
+      "MCPM": "250",
+      "GCPM": "150"
+    },
+    {
+      "protossid": "Tempest",
+      "Minerals": "300",
+      "Gas": "200",
+      "Time": "43",
+      "PerMin": "1",
+      "MCPM": "300",
+      "GCPM": "200"
+    },
+    {
+      "protossid": "Carrier",
+      "Minerals": "350",
+      "Gas": "250",
+      "Time": "64",
+      "PerMin": "1",
+      "MCPM": "350",
+      "GCPM": "250"
+    }
+  ],
+  "Calculator": [
+    {
+      "160": "56",
+      "320": "900",
+      "GasRate": "MineralRate"
+    }
+  ]
+}
